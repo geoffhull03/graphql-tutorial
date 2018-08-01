@@ -1,5 +1,4 @@
 Types::LinkType = GraphQL::ObjectType.define do
-
   name 'Link'
 
   field :id, !types.ID
